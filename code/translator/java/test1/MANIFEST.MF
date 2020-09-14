@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: lib/commons-lang3-3.9.jar lib/gson-2.7.jar lib/httpmime-4.3.1.wso2v1.jar lib/org.apache.commons.logging-1.0.4.v200706111724.jar lib/slf4j-api-2.0.0-alpha1.jar lib/slf4j-simple-2.0.0-alpha1.jar
+Main-Class: t
+
